@@ -2,7 +2,8 @@
 
 Juego que emula al Snake de antiguos telefonos celulares.
 
-Proyecto para beginners usando HTML,CSS, Vainilla, y JavaScript de reeCodeCamp.org
+Proyecto para beginners usando HTML,CSS, Vainilla, y JavaScript de 
+freeCodeCamp.org
 
 tutorial
 
